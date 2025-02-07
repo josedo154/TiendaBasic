@@ -1,0 +1,23 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Phone X Mini",
+    "cost": 399,
+    "details": "hiper compact and resistan water",
+    "suplier": 2
+  },
+  {
+    "product_id": 2,
+    "product_name": "Phone Z Mini",
+    "cost": 439,
+    "details": "hiper compact and resistan water and resistant a dog",
+    "suplier": 2
+  },
+  {
+    "product_id": 3,
+    "product_name": "Phone Ex Mini",
+    "cost": 499,
+    "details": "hiper compact and resistan water and resistant exams",
+    "suplier": 2
+  }
+]
